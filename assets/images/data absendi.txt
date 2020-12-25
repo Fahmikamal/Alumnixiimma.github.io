@@ -1,0 +1,36 @@
+
+NO	NIS	NAMA PESERTA
+1	10172187	Abi Rafdi Ammarda
+2	10172188	Ade Taufik Wahyudin
+3	10172189	Adella Safitri
+4	10172190	Aden Gusti Ramadhan
+5	10172191	Adinda Nurlita
+6	10172196	Ageng Setiadi
+7	10172219	Canigia Nur Maulid
+8	10172220	Cindy Mega Kencana
+9	10172226	Dhea Silvya Eliyani
+10	10172238	Fadla Kahfilah
+11	10172245	Fauziyanti Nabila
+12	10172250	Hary Bambang
+13	10172251	Hilda Darusalam
+14	10172255	Ira Puspita
+15	10172270	Muhamad Aripin
+16	10172265	Muhamad Akbar Firdaus
+17	10172274	Muhamad Fadlan Choerudin
+18	10172275	Muhamad fahmi Aryawijaya
+19	10172276	M. Fahmi Kamaludin
+20	10172277	Muhamad Fahrizal Syofarudin
+21	10172222	Muhamad Turmuji
+22	10172198	Mohamad Agus Salim
+23	10172280	Muhammad Fatahillah
+24	10172282	Muhamad Galang Abdika Rusli Saputra
+25	10172317	Nala Nur Syafira
+26	10172318	Neni Yulianti
+27	10172327	Putri Julianti
+28	10172328	Putri Mellanie
+29	10172330	Rafli Maulana
+30	10172331	Rahma Yunda Pratiwi
+31	10172336	Rani
+32	10172355	Siti Halimatusadiah
+33	10172356	Siti Nurhalimah
+34	10172362	Syahrul Ramadhan
